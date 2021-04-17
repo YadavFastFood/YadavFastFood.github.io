@@ -59687,24 +59687,26 @@ aS:function(){var s=this
 s.bk()
 s.f=new Z.B1(P.ch(0,0,2),C.jm,new P.b5(t.V))
 if(s.d==="Sorry.. This offer is valid on bill Rs 100 or above.")s.z=!s.z},
-O:function(a,b){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=4294967295,f=L.cN("Yadav Fast Food",h,h,h,h,h,h)
-f=E.a8N(new P.z(4294941442),B.TD(h,U.a9l("images/yadav_logo.jpg"),new B.a42(),h),f)
-s=M.jr(h,new T.hO(C.uE,h,h,L.cN("Created By Seven Ace Solutions",h,h,h,B.T3(A.c9(h,h,new P.z(g),h,h,h,h,h,h,h,h,h,h,h,h,h,!0,0.5,h,h,h,h,h)),h,h),h),C.w,h,h,h,h,h,h,h,h,h,h)
-r=L.cN(i.a3V(),h,h,h,B.T3(A.c9(h,h,new P.z(g),h,h,h,h,h,h,h,h,h,h,h,h,h,!0,0.5,h,h,h,h,h)),h,h)
-q=T.cf(h,20,h)
-p=i.z
-o=P.ch(0,1000,0)
-n=i.r
-m=i.x
-l=i.Q
-k=K.anw(new P.bR(10,10))
-j=H.c([new O.h2(5,P.aF(C.L.aM(127.5),0,0,0),new P.p(0,3),7)],t.ec)
-n=S.jk(m,n)
-m=t.fQ
-p=L.afK(T.Pl(H.c([D.lh(h,new G.qW(new S.f9(l,h,h,k,j,h,C.ag),n,C.vM,o,h,h),C.aG,!1,h,h,h,h,h,h,h,h,h,h,h,new B.a43(i),h,h,h,h,h,h),new Z.rB(i.f,C.pB,0.05,0.05,100,!1,i.a0v(),0.05,h)],m),C.fe,C.io,C.fZ),p)
-o=H.b(i.e)
-n=A.c9(h,h,C.k,h,h,h,h,h,h,h,h,i.y,h,h,h,h,!0,0.5,h,h,h,h,h)
-return M.a9W(f,new P.z(4280690214),T.pm(C.hE,H.c([s,E.a9X(T.Pl(H.c([r,q,T.pm(C.uD,H.c([p,L.cN(o,h,h,h,Z.ahS(h,h,h,h,h,h,h,"Rakkas",h,h,h,h,P.aq([new Z.h9(C.v,C.mt),new F.tu("b55368f62b7541a21f5f2e81100067268567c036b1f9f1b1435d7f856475a9f5",91160)],t.g1,t.p7),h,h,h,h,h,h,n,h),h,h)],m),C.f0),T.cf(h,20,h),new T.hO(C.pt,h,h,L.cN("Follow us on",h,h,h,B.T3(A.c9(h,h,C.j,h,h,h,h,h,h,h,h,h,h,h,h,h,!0,0.5,h,h,h,h,h)),h,h),h),T.aq9(H.c([D.lh(h,U.a9k(C.jf,25,new D.jT("https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Facebook-256.png"),25),C.aG,!1,h,h,h,h,h,h,h,h,h,h,h,new B.a44(),h,h,h,h,h,h),T.cf(h,h,20),D.lh(h,U.a9k(C.jf,25,new D.jT("https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/173_Instagram_logo_logos-256.png"),25),C.aG,!1,h,h,h,h,h,h,h,h,h,h,h,new B.a45(),h,h,h,h,h,h),T.cf(h,h,20),D.lh(h,U.a9k(C.jf,25,new D.jT("https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-256.png"),25),C.aG,!1,h,h,h,h,h,h,h,h,h,h,h,new B.a46(),h,h,h,h,h,h)],m),C.fe,C.rh,C.fZ),T.cf(h,20,h),L.cN("Thank You! And do visit again :)",h,h,h,B.T3(A.c9(h,h,C.j,h,h,h,h,h,h,h,h,h,h,h,h,h,!0,0.5,h,h,h,h,h)),h,h)],m),C.fe,C.io,C.fZ),new V.aI(32,32,32,32))],m),C.f0))}}
+O:function(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e=4294967295,d=L.cN("Yadav Fast Food",f,f,f,f,f,f)
+d=E.a8N(new P.z(4294941442),B.TD(f,U.a9l("images/yadav_logo.jpg"),new B.a42(),f),d)
+s=M.jr(f,new T.hO(C.uE,f,f,L.cN("Created By Seven Ace Solutions",f,f,f,B.T3(A.c9(f,f,new P.z(e),f,f,f,f,f,f,f,f,f,f,f,f,f,!0,0.5,f,f,f,f,f)),f,f),f),C.w,f,f,f,f,f,f,f,f,f,f)
+r=L.cN(g.a3V(),f,f,f,B.T3(A.c9(f,f,new P.z(e),f,f,f,f,f,f,f,f,f,f,f,f,f,!0,0.5,f,f,f,f,f)),f,f)
+q=T.cf(f,20,f)
+p=g.f
+o=g.a0v()
+n=g.z
+m=P.ch(0,1000,0)
+l=g.r
+k=g.x
+j=g.Q
+i=K.anw(new P.bR(10,10))
+h=H.c([new O.h2(5,P.aF(C.L.aM(127.5),0,0,0),new P.p(0,3),7)],t.ec)
+l=S.jk(k,l)
+k=t.fQ
+n=L.afK(T.Pl(H.c([D.lh(f,new G.qW(new S.f9(j,f,f,i,h,f,C.ag),l,C.vM,m,f,f),C.aG,!1,f,f,f,f,f,f,f,f,f,f,f,new B.a43(g),f,f,f,f,f,f)],k),C.fe,C.io,C.fZ),n)
+m=H.b(g.e)
+l=A.c9(f,f,C.k,f,f,f,f,f,f,f,f,g.y,f,f,f,f,!0,0.5,f,f,f,f,f)
+return M.a9W(d,new P.z(4280690214),T.pm(C.hE,H.c([s,E.a9X(T.Pl(H.c([r,q,T.pm(C.uD,H.c([new Z.rB(p,C.pB,0.05,0.05,100,!1,o,0.05,f),n,L.cN(m,f,f,f,Z.ahS(f,f,f,f,f,f,f,"Rakkas",f,f,f,f,P.aq([new Z.h9(C.v,C.mt),new F.tu("b55368f62b7541a21f5f2e81100067268567c036b1f9f1b1435d7f856475a9f5",91160)],t.g1,t.p7),f,f,f,f,f,f,l,f),f,f)],k),C.f0),T.cf(f,20,f),new T.hO(C.pt,f,f,L.cN("Follow us on",f,f,f,B.T3(A.c9(f,f,C.j,f,f,f,f,f,f,f,f,f,f,f,f,f,!0,0.5,f,f,f,f,f)),f,f),f),T.aq9(H.c([D.lh(f,U.a9k(C.jf,25,new D.jT("https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Facebook-256.png"),25),C.aG,!1,f,f,f,f,f,f,f,f,f,f,f,new B.a44(),f,f,f,f,f,f),T.cf(f,f,20),D.lh(f,U.a9k(C.jf,25,new D.jT("https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/173_Instagram_logo_logos-256.png"),25),C.aG,!1,f,f,f,f,f,f,f,f,f,f,f,new B.a45(),f,f,f,f,f,f),T.cf(f,f,20),D.lh(f,U.a9k(C.jf,25,new D.jT("https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-256.png"),25),C.aG,!1,f,f,f,f,f,f,f,f,f,f,f,new B.a46(),f,f,f,f,f,f)],k),C.fe,C.rh,C.fZ),T.cf(f,20,f),L.cN("Thank You! And do visit again :)",f,f,f,B.T3(A.c9(f,f,C.j,f,f,f,f,f,f,f,f,f,f,f,f,f,!0,0.5,f,f,f,f,f)),f,f)],k),C.fe,C.io,C.fZ),new V.aI(32,32,32,32))],k),C.f0))}}
 B.a47.prototype={
 $0:function(){var s=this.a
 s.x=s.r=300
@@ -59736,7 +59738,7 @@ B.a45.prototype={
 $0:function(){T.zn("https://www.instagram.com/yadavfastfood/")},
 $S:1}
 B.a46.prototype={
-$0:function(){T.zn("https://wa.me/+918898113177?text=I am%20interested%20in%20your%20car%20for%20sale")},
+$0:function(){T.zn("https://wa.me/+918898113177")},
 $S:1}
 B.oD.prototype={
 O:function(a,b){var s=null,r=L.cN("Yadav Fast Food",s,s,s,s,s,s)
