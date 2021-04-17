@@ -12,7 +12,7 @@ const RESOURCES = {
 "assets/images/images/maingif.gif": "b63003ad638ff80581afa7ca0a1e4c40",
 "assets/images/images/message_gif2.gif": "9b6a4009de5689558290785936d928ec",
 "assets/images/yadav_logo.jpg": "f21c227b1f3e8da65fc1c36644d7e0a3",
-"assets/NOTICES": "5502ca072a47ef1e6a3379b957cc2e79",
+"assets/NOTICES": "2b5f72e8e9650297c26d39015b549f91",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_signin_button/assets/logos/2.0x/facebook_new.png": "83bf0093719b2db2b16e2839aee1069f",
 "assets/packages/flutter_signin_button/assets/logos/2.0x/google_dark.png": "937022ea241c167c8ce463d2ef7ed105",
@@ -29,9 +29,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "fa774eb39109f11588662428515cd532",
-"/": "fa774eb39109f11588662428515cd532",
-"main.dart.js": "aa382328091f6fd092d5adacf416a884",
+"index.html": "3acfe13d799c4873e65d4b8eb9d7923b",
+"/": "3acfe13d799c4873e65d4b8eb9d7923b",
+"main.dart.js": "71f31e91bf2023a47a472bf039e5b2f3",
 "manifest.json": "0db0f940990278494325e6a2ff585eb3",
 "version.json": "2ab2f389bc7f4b53682ae158488351ab"
 };
