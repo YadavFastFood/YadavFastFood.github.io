@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "984db971381f0796c76ffc057426c78d",
+  "assets/AssetManifest.json": "c14fd41410e3089c46b87b201936d120",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/images/images/fb.png": "b59d15f1d09ebd9882cad4a448688aac",
@@ -11,6 +11,7 @@ const RESOURCES = {
 "assets/images/images/logo.jpg": "445e2df4ce2dcd3f15951988f4440e2c",
 "assets/images/images/maingif.gif": "b63003ad638ff80581afa7ca0a1e4c40",
 "assets/images/images/message_gif2.gif": "9b6a4009de5689558290785936d928ec",
+"assets/images/sevenlogo.png": "76ab11b30d7a4f12cde329ca2a68a1ac",
 "assets/images/yadav_logo.jpg": "f21c227b1f3e8da65fc1c36644d7e0a3",
 "assets/NOTICES": "2b5f72e8e9650297c26d39015b549f91",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -29,9 +30,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "985c20d83ef4a0237b0375409962ca77",
-"/": "985c20d83ef4a0237b0375409962ca77",
-"main.dart.js": "9e751b9685530e4006fd4df49213b697",
+"index.html": "f8fcf86d245e54df0af2bb2de26b0309",
+"/": "f8fcf86d245e54df0af2bb2de26b0309",
+"main.dart.js": "2c097143762d67ea011f952f02b96d76",
 "manifest.json": "0db0f940990278494325e6a2ff585eb3",
 "version.json": "2ab2f389bc7f4b53682ae158488351ab"
 };
